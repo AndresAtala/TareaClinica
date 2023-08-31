@@ -1,10 +1,10 @@
 public class Trabajadores {
 
-	private string tituloProfesional;
-	private string nombre;
-	private string direccion;
-	private string estadoCivil;
-	private string rut;
-	private string horario;
+	private String tituloProfesional;
+	private String nombre;
+	private String direccion;
+	private String estadoCivil;
+	private String rut;
+	private String horario;
 
 }
